@@ -1,0 +1,220 @@
+ .tool11 {
+  height: 36px;
+  background: #ffffff; 
+  display: block;
+}
+/*
+.reger {
+  position: absolute; 
+  right: 0;
+  top: 0;
+  /* right: 0px; 
+  top: 15px;
+  left: 500px; 
+}
+
+.reger1 {
+  position: absolute; 
+  right: 20;
+  top: 0;
+  margin: 12px;
+  /* right: 0px; 
+  top: 15px;
+  left: 500px; 
+} */
+
+  .tool{
+    position: absolute;
+    height: 1500px;
+    width: 100%;
+  }
+  .img {
+    height: 400px;
+    width: 100%;
+    background: url('family.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain 100%;
+  }
+
+.Menu{
+  position: absolute; 
+  left: 0;
+  top: 0;
+  margin: auto;
+  margin-left: 20%;
+}
+
+.blocks{
+  top: 0px;
+  position: relative;
+  width: 100%;
+  /* height: 1000px; */
+}
+
+
+.reger {
+  position: absolute; 
+  right: 0;
+  top: 0;
+  /* height: 30px; */
+   /* right: 0px; 
+  top: 15px;
+  left: 500px;  */
+}
+
+.cardNews{
+  position: absolute; 
+  height: 100%;
+  width: 100%;
+}
+
+.headNews{
+  position: absolute; 
+  height: 0px;
+  width: 0px;
+  padding: 0;
+  display: none;
+}
+
+.imgNews{
+  position: absolute; 
+  right: 0;
+  height: 200px;
+  /* top: 100px; */
+}
+
+/* .titleNews{
+  position: absolute; 
+  right: 0;
+  top: 100px;
+} */
+
+.titleNews1{
+  position: absolute; 
+  left: 0;
+  top: 300px;
+}
+
+.actionNews{
+  position: absolute !important;
+  bottom: 0;
+  right: 0;
+  height: 100;
+}
+
+/* .NewsButton1{
+  position: absolute; 
+  right: 0;
+  /* // margin: 10px;  
+  /* top: 170px; 
+  bottom: 0;
+} */
+
+.News{
+    margin: 1%;
+    position: absolute;
+    left: 0%;
+    top: 100px;
+    width: 30%;
+    height: 450px;
+    border: 4px double black;
+}
+
+.News2{
+  margin: 1%;
+  position: absolute;
+  left: 33%;
+  top: 100px;
+  width: 30%;
+  height: 450px;
+  border: 4px double black;
+}
+
+.News3{
+  margin: 1%;
+  position: absolute;
+  left: 66%;
+  top: 100px;
+  width: 30%;
+  height: 450px;
+  border: 4px double black;
+}
+
+.listLgot{
+  margin: 20px;
+  position: absolute;
+  left: 258px;
+  top: 60px;
+  width: 658px;
+  /* height: 450px; */
+  background: white;
+  border-radius: 8px;
+}
+
+.PodborLgot{
+  margin: 20px;
+
+}
+
+.Razmer{
+  position: relative;
+  display: inline-block;
+  float: right;
+  right: 0;
+  top: 15px;
+  width: 56px;
+  height: 18px;
+}
+
+.NameLgots{
+  top: 15px;
+  margin-top: 30px;
+  display: inline-block;
+  left: 0;
+  width: 40px;
+  height: 18px;
+}
+
+.tool222{
+  position: absolute;
+  top: 500px;
+  margin: 20px;
+  right: 35%;
+}
+
+.tool111{
+  position: absolute;
+  top: 50px;
+  margin: 20px;
+  right: 35%;
+}
+
+.Opros{
+  position: relative;
+  top: 10%;
+  left: 45%;
+}
+
+.footer {
+  /* position: fixed; Фиксированное положение */
+  position: relative;
+  left: 0; bottom: 0; /* Левый нижний угол */
+  padding: 15px; /* Поля вокруг текста */
+  background: #bbbbbb; /* Цвет фона */
+  color: rgb(255, 0, 242); /* Цвет текста */
+  /* width: 100%; Ширина слоя */
+ }
+
+Toolbar {
+    height: 30px;
+}
+
+.Newsnew{
+  margin: 20px;
+  left: 20%;
+  /* width: 60%; */
+  position: relative;
+  /* display: inline; */
+  
+}

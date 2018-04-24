@@ -1,0 +1,77 @@
+body{
+   /*// background-color: darkgray;*/
+  background-image: linear-gradient(rgba(0,0,64,1), rgba(255,255,0,0));
+  /*width: 130px;*/
+  height: 613px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*//border: 1px solid #aaa;*/
+}
+
+.label{
+/*width: '70%';*/
+/*background-color: blanchedalmond;*/
+/*text-align:  center;*/
+/*//margin-left: auto;*/
+float: left;
+margin-top: 13px;
+
+
+  -webkit-text-stroke: 0.9px violet; 
+  color: white;
+  
+  text-shadow:
+    1px 1px 0 #000,
+
+   /*-1px -1px 0 #000,  
+    1px -1px 0 #000,
+   -1px  1px 0 #000,
+    1px  1px 0 #000;*/
+
+
+}
+
+.input{
+float: right;
+margin-top: 10px
+}
+
+.login {
+    width: 250px;
+    /*border: 2px solid darkmagenta;
+    border-radius: 10px;*/
+    position: absolute;
+    height: 170px;
+    /*margin-left: 35%;
+    margin-top: 15%;
+    margin-right: 35%;*/
+    left: 0;
+    right:0;
+    margin: auto;
+    margin-top: 10%;
+
+}
+
+.knopka {
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: rgb(212,75,56); /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+  border-radius: 10px;
+  /*float: center;*/
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /*margin-right: 20%;*/
+} 
+.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
+.knopka:active { background: rgb(152,15,0); } /* при нажатии */
+
+.pas{
+  left: 25%;
+  top: 50%;
+}
